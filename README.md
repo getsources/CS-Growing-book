@@ -69,7 +69,7 @@ UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1Cu301QK2cL67C6
 
 大话计算机 [百度云下载链接](https://pan.baidu.com/s/1hDTgRDE-ZYLPgK-MxfnEqg) 密码:poer
 
-计算机是怎样跑起来的  [百度云下载链接](hhttps://pan.baidu.com/s/1t_c6X6on4Kks5RUWNqw96w) 密码:9cr2
+计算机是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1t_c6X6on4Kks5RUWNqw96w) 密码:9cr2
 
 # Python
 ## 1、Python基础
@@ -153,18 +153,27 @@ headfirst设计模式 [百度云下载链接](https://pan.baidu.com/s/1G2EAt5UCL
 SOA架构知识汇总（findyi团队打造）[百度云下载链接](https://pan.baidu.com/s/1wNAydeuFfClNS7wjBuASww) 密码:mp5m
 
 # Java
-## Java 基础
 阿里巴巴JAVA开发手册 [百度云下载链接](https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
 
 码出高效 [百度云下载链接](https://pan.baidu.com/s/1o9aS28y_zinaAsIS1ZGZfg) 密码:akjb 
 
 Java8实战 [百度云下载链接](https://pan.baidu.com/s/1TPzfc4AwZJ4jZvKlJKKPmw) 密码:8ode
 
+Effective JAVA [百度云下载链接](https://pan.baidu.com/s/148jl6NXRIyi2_x--MvwW4A ) 密码:r9kn
+
+JAVA编程思想 [百度云下载链接](https://pan.baidu.com/s/1vv1jvwromi---AhLbl1TXg)  密码:6hmq
+
+JAVA并发编程的艺术 [百度云下载链接](https://pan.baidu.com/s/1QzuIjjbjRG8YiFAbYxvyfw)  密码:q9ii
+
 # 面试相关
 
 Mysql面试题详解 [百度云下载链接](https://pan.baidu.com/s/1mr1zPuygZFcuLty5DQ6DQw) 密码:lhj7
 
 Java架构师面试题 [百度云下载链接](https://pan.baidu.com/s/1uG-ZLSRf2usTRY1X0v3HaA) 密码:j5w8
+
+# 技术学习路线
+
+技术学习路线最全思维导图 [百度云下载链接](https://pan.baidu.com/s/1QaYzwX9HptcDd4XR5grPog) 密码:y0io
 
 # 程序员认知提升
 代码之外的生存指南 [百度云下载链接](https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
