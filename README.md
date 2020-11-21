@@ -60,9 +60,9 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 
 网络是怎样连接的 [百度云下载链接](https://pan.baidu.com/s/12CE1hSd9WStFit19henheg) 密码:ahvf
 
-HTTP权威指南 百度云下载链接 密码:tqj8
+HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1vD6T9TcKVlMzzR6xx51ASA) 密码:6bbw
 
-UNIX网络编程 百度云下载链接 密码:4buy
+UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1Cu301QK2cL67C62A1ktvBw) 密码:7c7r
 
 ## 计算机组成原理
 隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1s_jkc8e9nQABV4bZIpa0Og) 密码:3h8t
@@ -75,11 +75,21 @@ UNIX网络编程 百度云下载链接 密码:4buy
 ## 1、Python基础
 编程小白入门的第一本Python书 [百度云下载链接](https://pan.baidu.com/s/1WJHs-C6Cf7lTGnbJoOXx-A) 密码:pz7o
 
+Python初学者编程指南 [百度云下载链接](https://pan.baidu.com/s/1oBDa-ykiEVEyPG0eeh-Bhw) 密码:ly7e 
+
+Python高性能编程 [百度云下载链接](https://pan.baidu.com/s/1NvynC_aXlI3Z9ud_MLBfcQ) 密码:6pgq
+
 
 ## 2、数据分析与爬虫
 数据科学入门 [百度云下载链接](https://pan.baidu.com/s/1LjteW-fJbBjtEc1QLClMLg) 密码:7x1k
 
-用Python写网络爬虫 [百度云下载链接](https://pan.baidu.com/s/1TCj0iKth24RRKc3-qLsoWw ) 密码:c649
+Python数据处理 [百度云下载链接](https://pan.baidu.com/s/1m6RD2vhCn6FdaLQ7Th4Slg) 密码:9eyn
+
+用Python写网络爬虫 [百度云下载链接](https://pan.baidu.com/s/1TCj0iKth24RRKc3-qLsoWw) 密码:c649
+
+Python数据分析实战 [百度云下载链接](https://pan.baidu.com/s/1M-LXh16z7m6pL0oEZG2z3Q) 密码:f7a0
+
+Python数据处理 [百度云下载链接](https://pan.baidu.com/s/1yLog28v5a-kfzYm1n_b_4w) 密码:vtvz
 
 # Linux
 深入Linux内核架构 [百度云下载链接](https://pan.baidu.com/s/1MpC_L0JvlifOC8Zcn5FKzw) 密码:q21v
@@ -87,6 +97,8 @@ UNIX网络编程 百度云下载链接 密码:4buy
 鸟哥的Linux私房菜 [百度云下载链接](https://pan.baidu.com/s/1t6YzTz4fIwem39XGFssqCQ) 密码:z6g1
 
 精通正则表达式 [百度云下载链接](https://pan.baidu.com/s/1l35I30KpViS8RW1CwiKleQ) 密码:zzqg
+
+Linux宝典 [百度云下载链接](https://pan.baidu.com/s/164buRm_JVYxq9NtCEwOvaQ) 密码:2bsa
 
 # C语言
 
@@ -112,8 +124,16 @@ C++Primer [百度云下载链接](https://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Sm
 
 Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1nhssvQGSh_PyVSB2y50RGA) 密码:zac2
 
+HTML5与CSS3基础教程  [百度云下载链接](https://pan.baidu.com/s/1HGfudWWARSH7uSdVKRlsTQ) 密码:5zu9 
+
+HTML5揭秘  [百度云下载链接](https://pan.baidu.com/s/1dWmyml898oZ6AchCsL1KoQ) 密码:ell1
+
 # 人工智能
 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
+
+Python机器学习及实践 [百度云下载链接](https://pan.baidu.com/s/1PaG-05mIzSwPCJaQXjKhKg) 密码:z714
+
+Tensorflow实战Google深度学习框架 [百度云下载链接](https://pan.baidu.com/s/1K2Lrey9ssUeigl-qqhzctw) 密码:bcxs
 
 # 设计模式
 大型网站技术架构 [百度云下载链接](https://pan.baidu.com/s/1aqHa9On_g-JrqRASscuyXQ) 密码:qkir
@@ -126,15 +146,25 @@ Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1nhssvQGSh_PyVSB
 
 图解设计模式2 [百度云下载链接](https://pan.baidu.com/s/1OcCOZVOqgOw6IxInxtp-gQ) 密码:njih
 
+headfirst设计模式 [百度云下载链接](https://pan.baidu.com/s/1G2EAt5UCLZQG1tPp3d6yQQ) 密码:0v3v
+
+研磨设计模式 [百度云下载链接](https://pan.baidu.com/s/1ziX-inl94qTkLYNpwm2hJg) 密码:vtrp
+
+SOA架构知识汇总（findyi团队打造）[百度云下载链接](https://pan.baidu.com/s/1wNAydeuFfClNS7wjBuASww) 密码:mp5m
+
 # Java
 ## Java 基础
 阿里巴巴JAVA开发手册 [百度云下载链接](https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
 
 码出高效 [百度云下载链接](https://pan.baidu.com/s/1o9aS28y_zinaAsIS1ZGZfg) 密码:akjb 
 
-## Java进阶
+Java8实战 [百度云下载链接](https://pan.baidu.com/s/1TPzfc4AwZJ4jZvKlJKKPmw) 密码:8ode
 
-## Java工具
+# 面试相关
+
+Mysql面试题详解 [百度云下载链接](https://pan.baidu.com/s/1mr1zPuygZFcuLty5DQ6DQw) 密码:lhj7
+
+Java架构师面试题 [百度云下载链接](https://pan.baidu.com/s/1uG-ZLSRf2usTRY1X0v3HaA) 密码:j5w8
 
 # 程序员认知提升
 代码之外的生存指南 [百度云下载链接](https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
