@@ -1,8 +1,8 @@
-计算机类的书籍非常贵，作为一个几个小时看完一本书且机不离身的程序员，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。同时很多小伙伴不知道哪些书是经典，哪些是辣鸡，作为一个互联网从业12你慢的职场老鸟（先后在360做过技术总监，在中小公司做过CTO），深知看书，看好书再加上实践才能高速成长。
+计算机类的书籍非常贵，作为一个几个小时看完一本书且机不离身的程序员，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。同时很多小伙伴不知道哪些书是经典，哪些是辣鸡，作为一个互联网从业12你慢的职场老鸟（先后在腾讯做过技术专家，在360做过技术总监，做过CTO），深知看书，看好书再加上实践才能高速成长。
 
 为了方便广大的小伙伴也能方便找到对应的优质电子书，我花费蛮荒之力从各个搜索网站收集了上百本常用的电子书。
 
-> 重要说明：这些书涵盖入门和进阶所需，请大家各取所需，另外还会一些程序员认知提升的书，和我自己的原创pdf，陆续会提交上来。
+> 重要说明：这些书涵盖入门和进阶所需，请大家各取所需，另外还会一些程序员认知提升的书和我从小白到CTO之路的PPT，后续我自己的原创pdf，陆续会提交上来，请大家持续关注这个项目。
 
 # 数据结构与算法相关书籍
 
@@ -54,19 +54,17 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 ## 计算机网络
 计算机网络：自顶向下 [百度云下载链接](https://pan.baidu.com/s/1XLmmtVbmjTnJBHkb5LXinw) 密码:rmz2
 
-图解HTTP 百度云下载链接 密码:b42z
+图解HTTP [百度云下载链接](https://pan.baidu.com/s/1MddJNn_OUx9WYasiIjvzFg) 密码:jp8y
 
-图解TC/IP 百度云下载链接 密码:5k3x
+图解TC/IP [百度云下载链接](https://pan.baidu.com/s/15HZ9760q93uW3FJa1l0U9w) 密码:ru05
 
-网络是怎样连接的 百度云下载链接 密码:g983
+网络是怎样连接的 [百度云下载链接](https://pan.baidu.com/s/12CE1hSd9WStFit19henheg) 密码:ahvf
 
 HTTP权威指南 百度云下载链接 密码:tqj8
 
 UNIX网络编程 百度云下载链接 密码:4buy
 
 ## 计算机组成原理
-
-
 隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1s_jkc8e9nQABV4bZIpa0Og) 密码:3h8t
 
 大话计算机 [百度云下载链接](https://pan.baidu.com/s/1hDTgRDE-ZYLPgK-MxfnEqg) 密码:poer
@@ -79,11 +77,9 @@ UNIX网络编程 百度云下载链接 密码:4buy
 
 
 ## 2、数据分析与爬虫
-
 数据科学入门 [百度云下载链接](https://pan.baidu.com/s/1LjteW-fJbBjtEc1QLClMLg) 密码:7x1k
 
 # Linux
-
 深入Linux内核架构 [百度云下载链接](链接:https://pan.baidu.com/s/1MpC_L0JvlifOC8Zcn5FKzw) 密码:q21v
 
 精通正则表达式
@@ -94,19 +90,15 @@ UNIX网络编程 百度云下载链接 密码:4buy
 经典C程序100例 [百度云下载链接](https://pan.baidu.com/s/1TBMrefvLvD4EPYFU4fkBYg) 密码:2c4i
 
 # C++
-
 深入探索C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1afbyH9HZL9qVy1hfdHZdfg) 密码:hgfl
 
 # 前端
-
 疯狂ajax讲义 [百度云下载链接](https://pan.baidu.com/s/1b3Ltc8BXQuoIFSeW0XXHOw) 密码:4q2c
 
 # 人工智能
-
 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
 
 # 设计模式
-
 大型网站技术架构 [百度云下载链接](https://pan.baidu.com/s/1aqHa9On_g-JrqRASscuyXQ) 密码:qkir
 
 设计模式之禅 [百度云下载链接](https://pan.baidu.com/s/1zRgsVh1quvhMPD4P_OspXA) 密码:1dl2
@@ -120,18 +112,11 @@ UNIX网络编程 百度云下载链接 密码:4buy
 
 # Java
 ## Java 基础
-
 阿里巴巴JAVA开发手册 [百度云下载链接](https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
 
 ## Java进阶
 
 ## Java工具
-
-# Go
-
-# 未分类书籍
-
-# Git
 
 # 程序员认知提升
 代码之外的生存指南 [百度云下载链接](https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
