@@ -14,9 +14,9 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 
 算法第四版 [百度云下载链接](https://pan.baidu.com/s/1AJVS1UMqcGhFR9thSdzZIg) 密码:mv6x
 
-数据结构与算法分析C语言描述版 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:mn10
+数据结构与算法分析C语言描述版 [百度云下载链接](https://pan.baidu.com/s/114kMJmW5ge5F5wz01sbMgw) 密码:dqso
 
-数据结构与算法分析Java语言描述版[百度云下载链接](https://pan.baidu.com/s/1MB9GKeGNfsOzWR2oODov5g) 密码:3hmj
+数据结构与算法分析Java语言描述版[百度云下载链接](https://pan.baidu.com/s/1_XiIRzN7P6OI8t3q2vYqww) 密码:xpu1
 
 剑指offer [百度云下载链接](https://pan.baidu.com/s/1bQatNWclizKvHXseScsvDQ) 密码:evu3
 
