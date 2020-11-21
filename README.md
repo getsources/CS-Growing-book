@@ -49,7 +49,7 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1w62g7cqy6hMf3my-_Mg2Dg)  密码:huk2
 
 ## 汇编语言
-汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门） [百度云下载链接](https://pan.baidu.com/s/1GVYruwnhKN7ZnslmsZcJ4Q) 密码:amc1
+汇编语言 [百度云下载链接](https://pan.baidu.com/s/1GVYruwnhKN7ZnslmsZcJ4Q) 密码:amc1
 
 ## 计算机网络
 计算机网络：自顶向下 [百度云下载链接](https://pan.baidu.com/s/1XLmmtVbmjTnJBHkb5LXinw) 密码:rmz2
