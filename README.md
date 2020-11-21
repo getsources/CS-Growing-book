@@ -96,7 +96,7 @@ C程序设计语言 [百度云下载链接](https://pan.baidu.com/s/1EJ6omwKIg5c
 
 C和指针 [百度云下载链接](https://pan.baidu.com/s/1M4wqnm0EqI2G4DGESQi94g ) 密码:vfn5
 
-C程序设计语言 百度云下载链接](https://pan.baidu.com/s/1EJ6omwKIg5ctwdwJTgASGQ) 密码:b93a 
+C程序设计语言 [百度云下载链接](https://pan.baidu.com/s/1EJ6omwKIg5ctwdwJTgASGQ) 密码:b93a 
 
 # C++
 深入探索C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1afbyH9HZL9qVy1hfdHZdfg) 密码:hgfl
@@ -105,12 +105,12 @@ C++编程思想  [百度云下载链接](https://pan.baidu.com/s/1RAVc0PBlzD6ugL
 
 C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1RHBr6qg7xeo1Ec1ywib8Xw) 密码:o370 
 
-C++Primer [百度云下载链接](hhttps://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Smg) 密码:947f 
+C++Primer [百度云下载链接](https://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Smg) 密码:947f 
 
 # 前端
 疯狂ajax讲义 [百度云下载链接](https://pan.baidu.com/s/1b3Ltc8BXQuoIFSeW0XXHOw) 密码:4q2c
 
-Bootstrap实战 [百度云下载链接](hhttps://pan.baidu.com/s/1nhssvQGSh_PyVSB2y50RGA) 密码:zac2
+Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1nhssvQGSh_PyVSB2y50RGA) 密码:zac2
 
 # 人工智能
 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
