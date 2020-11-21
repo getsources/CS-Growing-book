@@ -79,21 +79,38 @@ UNIX网络编程 百度云下载链接 密码:4buy
 ## 2、数据分析与爬虫
 数据科学入门 [百度云下载链接](https://pan.baidu.com/s/1LjteW-fJbBjtEc1QLClMLg) 密码:7x1k
 
-# Linux
-深入Linux内核架构 [百度云下载链接](链接:https://pan.baidu.com/s/1MpC_L0JvlifOC8Zcn5FKzw) 密码:q21v
+用Python写网络爬虫 [百度云下载链接](https://pan.baidu.com/s/1TCj0iKth24RRKc3-qLsoWw ) 密码:c649
 
-精通正则表达式
-[百度云下载链接](https://pan.baidu.com/s/1l35I30KpViS8RW1CwiKleQ) 密码:zzqg
+# Linux
+深入Linux内核架构 [百度云下载链接](https://pan.baidu.com/s/1MpC_L0JvlifOC8Zcn5FKzw) 密码:q21v
+
+鸟哥的Linux私房菜 [百度云下载链接](https://pan.baidu.com/s/1t6YzTz4fIwem39XGFssqCQ) 密码:z6g1
+
+精通正则表达式 [百度云下载链接](https://pan.baidu.com/s/1l35I30KpViS8RW1CwiKleQ) 密码:zzqg
 
 # C语言
 
 经典C程序100例 [百度云下载链接](https://pan.baidu.com/s/1TBMrefvLvD4EPYFU4fkBYg) 密码:2c4i
 
+C程序设计语言 [百度云下载链接](https://pan.baidu.com/s/1EJ6omwKIg5ctwdwJTgASGQ) 密码:b93a 
+
+C和指针 [百度云下载链接](https://pan.baidu.com/s/1M4wqnm0EqI2G4DGESQi94g ) 密码:vfn5
+
+C程序设计语言 百度云下载链接](https://pan.baidu.com/s/1EJ6omwKIg5ctwdwJTgASGQ) 密码:b93a 
+
 # C++
 深入探索C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1afbyH9HZL9qVy1hfdHZdfg) 密码:hgfl
 
+C++编程思想  [百度云下载链接](https://pan.baidu.com/s/1RAVc0PBlzD6ugLxrST0P7A) 密码:unpi
+
+C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1RHBr6qg7xeo1Ec1ywib8Xw) 密码:o370 
+
+C++Primer [百度云下载链接](hhttps://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Smg) 密码:947f 
+
 # 前端
 疯狂ajax讲义 [百度云下载链接](https://pan.baidu.com/s/1b3Ltc8BXQuoIFSeW0XXHOw) 密码:4q2c
+
+Bootstrap实战 [百度云下载链接](hhttps://pan.baidu.com/s/1nhssvQGSh_PyVSB2y50RGA) 密码:zac2
 
 # 人工智能
 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
@@ -109,10 +126,11 @@ UNIX网络编程 百度云下载链接 密码:4buy
 
 图解设计模式2 [百度云下载链接](https://pan.baidu.com/s/1OcCOZVOqgOw6IxInxtp-gQ) 密码:njih
 
-
 # Java
 ## Java 基础
 阿里巴巴JAVA开发手册 [百度云下载链接](https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
+
+码出高效 [百度云下载链接](https://pan.baidu.com/s/1o9aS28y_zinaAsIS1ZGZfg) 密码:akjb 
 
 ## Java进阶
 
