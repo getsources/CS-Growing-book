@@ -8,43 +8,43 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 
 挑战程序设计竞赛 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:kj5n
 
-算法图解 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:7osf
+算法图解 [百度云下载链接](https://pan.baidu.com/s/1SDUKszSJsLVmN8_p1rzujQ) 密码:yef2
 
-算法导论 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:p2tp
-
-算法第四版 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:rixw
+算法第四版 [百度云下载链接](https://pan.baidu.com/s/1AJVS1UMqcGhFR9thSdzZIg) 密码:mv6x
 
 数据结构与算法分析C语言描述版 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:mn10
 
-数据结构与算法分析Java语言描述版[百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:917n
+数据结构与算法分析Java语言描述版[百度云下载链接](https://pan.baidu.com/s/1MB9GKeGNfsOzWR2oODov5g) 密码:3hmj
 
-数据结构与算法 Python语言描述_裘宗燕 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:96gw
+剑指offer [百度云下载链接](https://pan.baidu.com/s/1bQatNWclizKvHXseScsvDQ) 密码:evu3
 
-剑指offer [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:a4rt
+计算机程序设计艺术1-3卷 [百度云下载链接](https://pan.baidu.com/s/1bYk8HBRx6XS6uianZKZusg) 密码:iyg9
 
-计算机程序设计艺术1-3卷 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:i3nh
+大话数据结构 [百度云下载链接](https://pan.baidu.com/s/1wKEBnsi5CkbCu2SC6RZWrg) 密码:zi7w
 
-大话数据结构 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:np2o
+程序员代码面试指南：IT 名企算法与数据结构题目最优解 [百度云下载链接](https://pan.baidu.com/s/18uQunE3EG3Io2HNWd5dwiw) 密码:3lzb
 
-程序员代码面试指南：IT 名企算法与数据结构题目最优解 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:20oh
+编程珠玑 [百度云下载链接](https://pan.baidu.com/s/15h75e9FFZmwUILGayJgoSg) 密码:a3lu
 
-编程珠玑 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:4oow
+编程之美 [百度云下载链接](https://pan.baidu.com/s/159AgTbKmX7wZpKhIx701yQ) 密码:50by
 
-编程之美 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:4zme
+啊哈算法 [百度云下载链接](https://pan.baidu.com/s/1VhL0FmfF3qu-j27n3tMs_Q) 密码:d30o
 
-啊哈算法 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:h4id
-
-程序员的算法趣题 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:kk84
+程序员的算法趣题 [百度云下载链接](https://pan.baidu.com/s/1ejUq1zPxio4w7kv73CmepA) 密码:8v79
 
 # 计算机基础
 
 ## 操作系统
 
-30天填自制操作系统 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:pxxr
-操作系统之哲学原理 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg) 密码:hua7
-程序是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/148Eojdg0cdogKR38eix6Hg)密码:pbvh
-深入理解计算机操作系统 百度云下载链接 密码:2toh
-现代操作系统 百度云下载链接 密码:huk2
+30天填自制操作系统 [百度云下载链接](https://pan.baidu.com/s/1PMT_u5eZsqIWQZxAcWJLvA) 密码:xdh0
+
+操作系统之哲学原理 [百度云下载链接](https://pan.baidu.com/s/1hG6cJPcj3EeZ0jrp7Y9bkA) 密码:67le
+
+程序是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1rf8_d5W-vG-eCAfgzedQKA)密码:z5l5
+
+深入理解计算机操作系统 [百度云下载链接](https://pan.baidu.com/s/1J42r3-ib0U32hpsG8mYvyg)  密码:l5bq
+
+现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1w62g7cqy6hMf3my-_Mg2Dg)  密码:huk2
 
 ## 汇编语言
-汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门） 百度云下载链接 密码:qea3
+汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门） [百度云下载链接](https://pan.baidu.com/s/1GVYruwnhKN7ZnslmsZcJ4Q) 密码:amc1
