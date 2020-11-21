@@ -52,7 +52,7 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 汇编语言（注：这边是王爽写的，我觉得写的很好，适合入门） [百度云下载链接](https://pan.baidu.com/s/1GVYruwnhKN7ZnslmsZcJ4Q) 密码:amc1
 
 ## 计算机网络
-计算机网络：自顶向下 百度云下载链接 密码:l77d
+计算机网络：自顶向下 [百度云下载链接](https://pan.baidu.com/s/1XLmmtVbmjTnJBHkb5LXinw) 密码:rmz2
 
 图解HTTP 百度云下载链接 密码:b42z
 
@@ -65,26 +65,60 @@ HTTP权威指南 百度云下载链接 密码:tqj8
 UNIX网络编程 百度云下载链接 密码:4buy
 
 ## 计算机组成原理
-隐匿在计算机软硬件背后的语言 百度云下载链接 密码:6jiq
+隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1s_jkc8e9nQABV4bZIpa0Og) 密码:3h8t
 
-大话计算机 百度云下载链接 密码:6j1o
+大话计算机 [百度云下载链接](https://pan.baidu.com/s/1hDTgRDE-ZYLPgK-MxfnEqg) 密码:poer
 
-计算机是怎样跑起来的 百度云下载链接 密码:er12
+计算机是怎样跑起来的  [百度云下载链接](hhttps://pan.baidu.com/s/1t_c6X6on4Kks5RUWNqw96w) 密码:9cr2
 
 # Python
 ## 1、Python基础
+编程小白入门的第一本Python书 [百度云下载链接](https://pan.baidu.com/s/1WJHs-C6Cf7lTGnbJoOXx-A) 密码:pz7o
+
+
 ## 2、数据分析与爬虫
+
+数据科学入门 [百度云下载链接](https://pan.baidu.com/s/1LjteW-fJbBjtEc1QLClMLg) 密码:7x1k
 
 # Linux
 
+深入Linux内核架构 [百度云下载链接]（链接:https://pan.baidu.com/s/1MpC_L0JvlifOC8Zcn5FKzw) 密码:q21v
+
+精通正则表达式 [百度云下载链接]（hhttps://pan.baidu.com/s/1l35I30KpViS8RW1CwiKleQ 密码:zzqg
+
 # C语言
+
+经典C程序100例 [百度云下载链接]（https://pan.baidu.com/s/1TBMrefvLvD4EPYFU4fkBYg 密码:2c4i
+
+# C++
+
+深入探索C++对象模型 [百度云下载链接]（https://pan.baidu.com/s/1afbyH9HZL9qVy1hfdHZdfg) 密码:hgfl
 
 # 前端
 
+疯狂ajax讲义 [百度云下载链接]（https://pan.baidu.com/s/1b3Ltc8BXQuoIFSeW0XXHOw) 密码:4q2c
+
 # 人工智能
+
+贝叶斯思维统计建模的Python学习法 [百度云下载链接]（https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
+
+# 设计模式
+
+大型网站技术架构 [百度云下载链接]（https://pan.baidu.com/s/1aqHa9On_g-JrqRASscuyXQ) 密码:qkir
+
+设计模式之禅 [百度云下载链接]（https://pan.baidu.com/s/1zRgsVh1quvhMPD4P_OspXA) 密码:1dl2
+
+数据中台 [百度云下载链接]（https://pan.baidu.com/s/1WTLXZSnn5SB9WpJymZg7qg) 密码:1sw4
+
+图解设计模式 [百度云下载链接]（https://pan.baidu.com/s/1JV14mj_wfEFb-PHUBEuZAQ) 密码:h0ew
+
+图解设计模式2 [百度云下载链接]（https://pan.baidu.com/s/1OcCOZVOqgOw6IxInxtp-gQ) 密码:njih
+
 
 # Java
 ## Java 基础
+
+阿里巴巴JAVA开发手册 [百度云下载链接]（https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
 
 ## Java进阶
 
@@ -97,6 +131,9 @@ UNIX网络编程 百度云下载链接 密码:4buy
 # Git
 
 # 程序员认知提升
+代码之外的生存指南 [百度云下载链接]（https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
+
+findyi从小白到CTO之路 [百度云下载链接]（https://pan.baidu.com/s/1WttQzU3-am3U6payPUmaog) 密码:hsmx
 
 # 免责声明
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1666267807@qq.com
